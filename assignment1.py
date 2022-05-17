@@ -27,7 +27,7 @@ print("h")
 both = 2
 d = int(r) * both
 curved_surface = d * pi * int(h)
-circle_area = pi * int(r) * int(both)
+circle_area = pi * int(r) * both
 surface_area = circle_area + curved_surface
 print("surface area of cylinder is " + str(surface_area))
 
