@@ -1,3 +1,11 @@
+#1/deskop/inspire with stem/lesson6.py
+
+######################################
+#       Dictionaries
+#       Name : Carson Maina
+#       Date : 20/5/2022
+######################################
+
 ##learning about lists
 owner = "Mojo Jojo"
 plate_number = ['H1234' , 'Y1234', 'S1234']

@@ -1,3 +1,10 @@
+#1/deskop/inspire with stem/lesson5.py
+
+######################################
+#       Dictionaries
+#       Name : Carson Maina
+#       Date : 19/5/2022
+######################################
 # methods
 name = "Mathenge Mugo"
 user_name= "Ada Lovelace"

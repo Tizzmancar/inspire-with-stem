@@ -1,3 +1,10 @@
+#1/deskop/inspire with stem/lesson3.py
+
+######################################
+#       Dictionaries
+#       Name : Carson Maina
+#       Date : 17/5/2022
+######################################
 # getting user input
 
 from turtle import home
