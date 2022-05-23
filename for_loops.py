@@ -23,5 +23,7 @@ for number in range(0,9):
 
 
 #print a diamond of stars
+print(" /t/t/t*  ")
+
 
 #print a pyramid of stars
