@@ -5,6 +5,7 @@ age = 17
 no_of_sibling = 3
 noOfSibling = 3
  
+# camel case
 dateOfBirth = 3
 yearOfBirth = 2003
 

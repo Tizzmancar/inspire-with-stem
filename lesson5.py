@@ -10,6 +10,8 @@ print(f"My name is {name} and I am {age} years old")
 #n ->new line
 #t ->tab
 print(f"My \t name is {name} \n and I am")
+print("Monday\t Tuesday\t Wednesday \t Thursday \t Friday \t Saturday \t sunday")
+
 user_name = "Lovelace"
 print(user_name.strip)
 print(user_name.rstrip)
@@ -67,3 +69,4 @@ msg = "Hello from Bob Afwata how are you"
 print(msg.split())
 
 print(len(msg))
+ 

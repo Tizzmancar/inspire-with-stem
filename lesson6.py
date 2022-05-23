@@ -3,9 +3,17 @@ owner = "Mojo Jojo"
 plate_number = ['H1234' , 'Y1234', 'S1234']
 motorcycle = ['honda', 'yamaha' , 'suzuki']
 
+
+fruits = ['mango' , 'pineapple' , 'apple']
+#fruits[2] = 'guava'
+#(fruits)
 ##accessing list items using index
 #print(motorcycle)
 #print(motorcycle[1])
+
+##accessing last item in list
+#print(motorcycle[-1])
+
 
 ##changing elements in a list
 #motorcycle[0]= 'buggati'
@@ -30,7 +38,7 @@ motorcycle = ['honda', 'yamaha' , 'suzuki']
 # print(f"my name is {owner} and i own a {motorcycle[0]} {plate_number[0]}") 
 
 #removing an item from a list
-motorcycle.remove('suzuki')
-print(motorcycle)
+#motorcycle.remove('suzuki')
+#print(motorcycle)
 
 
