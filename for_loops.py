@@ -21,9 +21,19 @@ for number in range(0,9):
     print(number,"\t",number**2)   
 
 
+#diamond of stars
+print("a diamond of stars")
+print("\t\t\t*\t\t\t")
+print("\t\t*\t*\t*\t")
+print("\t*\t*\t*\t*\t*\t")
+print("*\t*\t*\t*\t*\t*\t*\t")
+print("\t*\t*\t*\t*\t*\t")
+print("\t\t*\t*\t*\t")
+print("\t\t\t*\t\t\t")
 
-#print a diamond of stars
-print(" /t/t/t*  ")
-
-
-#print a pyramid of stars
+#pyramid of stars
+print("a pyramid of stars")
+print("\t\t\t*\t\t\t")
+print("\t\t*\t*\t*\t")
+print("\t*\t*\t*\t*\t*\t")
+print("*\t*\t*\t*\t*\t*\t*\t")
