@@ -15,11 +15,10 @@ for number in range(0,9):
 #     print(number**2)
 
 square = number**2
-print("number\t             square")
-
+print("number\tSquare")
+print("______________________")
 for number in range(0,9):
-    print(number\t square) 
-    print(square)
+    print(number,"\t",number**2)   
 
 
 
