@@ -1,3 +1,6 @@
+# let user type input
+#print
+
 #area of a circle
 r = input("enter the radius of circle")
 print(r)
@@ -17,7 +20,6 @@ vol = ba * int(h)
 print(" volume of cylinder is " + str(vol))
 
 
-
 #surface area of a cylinder
 r = input(" enter radius of cylinder")
 print(r)
@@ -32,19 +34,8 @@ surface_area = circle_area + curved_surface
 print("surface area of cylinder is " + str(surface_area))
 
 
-
 #volume of a cube
 l = input("enter length")
 print(l)
 vol = int(l) * int(l) * int(l)
 print("volume of cube is " + str(vol) )
-
-
-
-
-
-
-# let user type input
-
-
-#print

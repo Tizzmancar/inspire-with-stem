@@ -1,4 +1,12 @@
-# my age is an interger
+#1/deskop/inspire with stem/lesson2.py
+
+######################################
+#       my age is an interger
+#       Name : Carson Maina
+#       Date : 17/5/2022
+######################################
+
+
 
 age = 17
 

@@ -1,11 +1,11 @@
 #1/deskop/inspire with stem/lesson4.py
 
 ######################################
-#       Dictionaries
+#       intergers
 #       Name : Carson Maina
 #       Date : 18/5/2022
 ######################################
-#intergers
+
 
 
 x = 100

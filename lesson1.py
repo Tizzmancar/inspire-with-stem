@@ -1,4 +1,12 @@
-#python basics
+#1/deskop/inspire with stem/lesson3.py
+
+######################################
+#       python basics
+#       Name : Carson Maina
+#       Date : 17/5/2022
+######################################
+
+
 
 #this is a comment
 
