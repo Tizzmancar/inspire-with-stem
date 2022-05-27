@@ -12,8 +12,10 @@ colours ={'colour': 'red'}
 vehicle = {'type': 'toyota','plate_no': '1234'}
 
 # print(type(colours))#use the type method to check data type
-#accessing values in a dictionary
+
+##accessing values in a dictionary
 # print(vehicle['type']) #you can access value of an element inside a dictionary
+print(vehicle.get('plate_no'))
 
 person = {'name':'Sam',
     'gender': 'male',
@@ -21,11 +23,11 @@ person = {'name':'Sam',
     'residence' : 'nai'}
 
 ## adding something to dictionary
-person['age']= '21'
-person['fav_colour']= 'black'
+# person['age']= '21'
+# person['fav_colour']= 'black'
 
-#deleting an item in a list
-del person['phone_no']
+##deleting an item in a list
+# del person['phone_no']
 
 # print(vehicle['type'],vehicle['plate_no'])
 # print(type(person))
@@ -35,4 +37,4 @@ del person['phone_no']
 # for key, value in person.items() :
 #     print(f"{key}:{value}")
 
-
+print(person.get('password'))
