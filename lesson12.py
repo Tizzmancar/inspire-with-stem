@@ -8,5 +8,5 @@ print(foods)
 print(type(foods))
 
 names ={
-    'mary' : ['female','']
+    'mary' : ['female']
 }

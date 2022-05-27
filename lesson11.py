@@ -40,4 +40,10 @@
 #     print(num)
 #     num = num +2
 
+#factorial
+factor=6
+for number in range (1,6):
+    factor= factor * number
+print(factor)
+
 
