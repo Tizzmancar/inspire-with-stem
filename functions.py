@@ -3,7 +3,7 @@
 ######################################
 #       functions
 #       Name : Carson Maina
-#       Date : 24/5/2022
+#       Date : 31/5/2022
 ######################################
 
 # functions is a block of code which gets executed altogether
@@ -15,19 +15,40 @@ def say_hello():
     y=7
     z=x+y
     print(z)
-say_hello()
+# say_hello()
 
 def bark():
     print("dogs bark woof woof")
-bark()
+
 def moo():
     print("cows go moo")
-moo()
+
 def meow():
     print("cats go meow")
-meow()
+
 def neigh():
     print("horse neighs")
-neigh()
+# neigh()
+# bark()
+# moo()
+# meow()
 
+##function parameters
 
+#functions for addition
+def add_numbers(x,y):
+    sum_nums=x + y
+    print("the sum of numbers:",sum_nums)
+
+# add_numbers(40,50)
+# add_numbers(100,400)
+# add_numbers(1,4)
+
+##functions for products
+def product_numbers(x,y):
+    prod= x*y
+    print("the product of the numbers is:",prod)
+
+product_numbers(80,30)
+product_numbers(4,89)
+product_numbers(7,9)
