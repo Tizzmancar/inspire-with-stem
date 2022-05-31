@@ -1,3 +1,10 @@
+#1/deskop/inspire with stem/lesson12.py
+
+######################################
+#       dictionaries
+#       Name : Carson Maina
+#       Date : 27/5/2022
+######################################
 mary_fav_food = ['beef' , 'chicken' , ' vegetable']
 jane_fav_food = ['rice', 'ugali', 'potato']
 #food =mary_fav_food , jane_fav_food
