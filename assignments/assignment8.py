@@ -9,7 +9,7 @@ class Password:
         print("username is " + self.user+ " password is " + self.password)
 
 
-print("Welcome to our passsword generator")
+
 character= str(input("enter characters to be used for password generation "))
 user = str(input("enter username "))
 num_password= int(input("How many passwords do you want to generate "))
