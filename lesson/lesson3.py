@@ -1,4 +1,4 @@
-#1/deskop/inspire with stem/lesson3.py
+#1/deskop/inspire with stem/lesson/lesson3.py
 
 ######################################
 #       getting user input

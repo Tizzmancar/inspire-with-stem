@@ -1,4 +1,4 @@
-#1/deskop/inspire with stem/lesson2.py
+#1/deskop/inspire with stem/lesson/lesson2.py
 
 ######################################
 #       my age is an interger

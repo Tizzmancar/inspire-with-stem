@@ -1,4 +1,4 @@
-#1/deskop/inspire with stem/factorial.py
+#1/deskop/inspire with stem/lesson/factorial.py
 
 ######################################
 #       factorial

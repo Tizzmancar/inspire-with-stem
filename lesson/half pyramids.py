@@ -1,4 +1,4 @@
-#1/deskop/inspire with stem/pyramids.py
+#1/deskop/inspire with stem/lesson/pyramids.py
 
 ######################################
 #       half pyramid

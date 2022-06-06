@@ -1,0 +1,16 @@
+This is a normal text file
+Learning python is fun
+Today is a windy day
+
+f = open("test.txt")        #
+f= open("text.txt" ,'w')
+f= open("img,bmp",'r+b')
+
+r   opens a file for reading
+w   opens a file for writing, Creates a new file
+x   opens a file for exclusive creation. If the
+a   opens a file for appending at the end of the
+t   opens in text mode
+b   opens in binary mode
++   opens a file for updating (reading and writing)
+

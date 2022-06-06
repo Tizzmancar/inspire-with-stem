@@ -1,4 +1,4 @@
-#1/deskop/inspire with stem/lesson4.py
+#1/deskop/inspire with stem/lesson/lesson4.py
 
 ######################################
 #       intergers

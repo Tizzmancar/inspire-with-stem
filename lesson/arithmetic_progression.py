@@ -1,4 +1,4 @@
-#1/deskop/inspire with stem/arithmetic_progression.py
+#1/deskop/inspire with stem/lesson/arithmetic_progression.py
 
 ######################################
 #       arithmetic progression

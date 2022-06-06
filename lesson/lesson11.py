@@ -1,4 +1,4 @@
-#1/deskop/inspire with stem/lesson11.py
+#1/deskop/inspire with stem/lesson/lesson11.py
 
 ######################################
 #       if_loops

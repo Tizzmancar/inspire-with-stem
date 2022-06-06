@@ -1,4 +1,4 @@
-#1/deskop/inspire with stem/functions.py
+#1/deskop/inspire with stem/lesson/functions.py
 
 ######################################
 #       functions
