@@ -1,4 +1,4 @@
-#1/deskop/inspire with stem/lesson10.py
+#1/deskop/inspire with stem/lesson/lesson10.py
 
 ######################################
 #       dictionaries

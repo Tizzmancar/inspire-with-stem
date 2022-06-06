@@ -1,4 +1,4 @@
-#1/deskop/inspire with stem/lesson9.py
+#1/deskop/inspire with stem/lesson/lesson9.py
 
 ######################################
 #       if statements

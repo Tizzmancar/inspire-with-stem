@@ -1,4 +1,4 @@
-#1/deskop/inspire with stem/lesson8.py
+#1/deskop/inspire with stem/lesson/lessson8.py
 
 ######################################
 #       lists
