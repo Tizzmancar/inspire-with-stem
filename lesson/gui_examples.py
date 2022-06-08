@@ -33,7 +33,8 @@ def open_pop_up():
 
 
 #buttons
-btn=Button(text="sign up",bg='red',command= open_pop_up()).pack
+btn=Button(text="sign up",bg='red',command= open_pop_up())
+btn.pack
 
 # button position 
 btn.grid(column=120,row=150)
