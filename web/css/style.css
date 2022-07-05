@@ -1,0 +1,20 @@
+body{
+    margin: 15px;
+    background-color: azure;
+}
+#nav-1{
+    background-color: red;
+    margin: 5px;
+}
+.block{
+    color: blue;
+    font-size: medium;
+    align-items: center;
+    
+}
+.meta-data{
+    color: red;
+    font-size: 18px;
+    font-weight: 400;
+}
+/* this is a comment*/
